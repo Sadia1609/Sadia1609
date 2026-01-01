@@ -1,11 +1,10 @@
-<h1 align="center">Sadia Rahman</h1>
-<h3 align="center">MERN Stack Developer</h3>
-
+<h2 align="right">Sadia Rahman</h2>
+<br>
+<br>
+<br>
+<br>
+<h3 align="right">MERN Stack Developer</h3>
 - 📫 How to reach me **sadia.rahman160920@gmail.com**
-
-  <br>
-  <br>
-  <br>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
