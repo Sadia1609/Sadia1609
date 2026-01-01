@@ -1,9 +1,9 @@
-<h2 align="right">Sadia Rahman</h2>
+<h2 align="left">Sadia Rahman</h2>
 <br>
 <br>
 <br>
 <br>
-<h3 align="right">MERN Stack Developer</h3>
+<h3 align="left">MERN Stack Developer</h3>
 - 📫 How to reach me **sadia.rahman160920@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
