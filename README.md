@@ -15,7 +15,7 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sadia-rahman-1709153a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sadia-rahman-1709153a3/" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/sadia-rahman-1709153a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sadia-rahman-1709153a3/" height="20" width="30" /></a>
 </p>
 
 <h3 align="right">Languages and Tools:</h3>
