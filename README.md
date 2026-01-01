@@ -23,7 +23,7 @@ tools to improve performance, scalability, and user experience.
   <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 </p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -38,16 +38,11 @@ tools to improve performance, scalability, and user experience.
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-## 📈 GitHub Stats
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sadia1609&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sadia1609&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- 🔢 **Public Repositories:** Viewable directly on my GitHub profile
+- 🔥 **Contribution Graph:** Automatically displayed by GitHub
+- 🧠 **Languages Used:** Available inside each repository based on codebase
 
 
