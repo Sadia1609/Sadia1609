@@ -4,10 +4,9 @@
 
 <h4 align="center">MERN Stack Developer</h4>
 <p align="center">
-📍 Dhaka, Bangladesh <br/>
 📧 <strong>Email:</strong> sadia.rahman160920@gmail.com <br/>
-📞 <strong>Contact:</strong> +8801700890040
 </p>
+
 ## 👋 About Me
 
 I am a passionate MERN Stack Developer with a strong interest in building modern,
