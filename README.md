@@ -36,7 +36,8 @@ tools to improve performance, scalability, and user experience.
 
 
 ## GitHub stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadia1609)](https://github.com/Sadia1609/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=Sadia1609&hide=contribs,prs)
+
 
 
 
