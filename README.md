@@ -22,9 +22,7 @@ tools to improve performance, scalability, and user experience.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
 </p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-</p>
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
