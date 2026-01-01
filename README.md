@@ -39,10 +39,5 @@ tools to improve performance, scalability, and user experience.
   </a>
 </p>
 
-## 📈 GitHub Activity
-
-- 🔢 **Public Repositories:** Viewable directly on my GitHub profile
-- 🔥 **Contribution Graph:** Automatically displayed by GitHub
-- 🧠 **Languages Used:** Available inside each repository based on codebase
 
 
