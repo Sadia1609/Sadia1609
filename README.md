@@ -36,7 +36,9 @@ tools to improve performance, scalability, and user experience.
 
 
 ## GitHub stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=Sadia1609&hide=contribs,prs)
+<p align="center" width="100%">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Sadia1609" alt="GitHub Insights" />
+</p>
 
 
 
