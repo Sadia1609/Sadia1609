@@ -20,7 +20,7 @@ tools to improve performance, scalability, and user experience.
 - 🎯 Improving backend performance using **MongoDB**  
 - 📚 Enhancing problem-solving and clean code practices
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 <p align="left">
@@ -29,9 +29,6 @@ tools to improve performance, scalability, and user experience.
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/Sadia1609" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
   <a href="https://www.linkedin.com/in/sadia-rahman-1709153a3/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
