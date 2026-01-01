@@ -6,7 +6,6 @@
 <br>
 <br>
 <h3 align="left">MERN Stack Developer</h3>
-- 📫 How to reach me 
 <p style="margin:0 0 10px 0;">
         📫 <strong>Email</strong><br/>
         <a href="mailto:sadia.rahman160920@gmail.com">
