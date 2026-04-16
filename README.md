@@ -34,24 +34,6 @@ tools to improve performance, scalability, and user experience.
 </p>
 
 ##  My Best Projects
-<p align="center">
-  <style>
-    .glass-card {
-      background: rgba(255, 255, 255, 0.1);
-      border-radius: 20px;
-      backdrop-filter: blur(10px);
-      transition: all 0.3s ease;
-      display: inline-block;
-      margin: 10px;
-      overflow: hidden;
-    }
-    .glass-card:hover {
-      transform: translateY(-5px) scale(1.02);
-      background: rgba(255, 255, 255, 0.2);
-      box-shadow: 0 15px 35px rgba(0,0,0,0.2);
-    }
-  </style>
-</p>
 
 ### 1. PawMart
 
