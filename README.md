@@ -34,13 +34,34 @@ tools to improve performance, scalability, and user experience.
 </p>
 
 ##  My Best Projects
+<p align="center">
+  <style>
+    .glass-card {
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 20px;
+      backdrop-filter: blur(10px);
+      transition: all 0.3s ease;
+      display: inline-block;
+      margin: 10px;
+      overflow: hidden;
+    }
+    .glass-card:hover {
+      transform: translateY(-5px) scale(1.02);
+      background: rgba(255, 255, 255, 0.2);
+      box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+    }
+  </style>
+</p>
 
 ### 1. PawMart
 
-<img src="https://postimg.cc/5X32bcgb" alt="pawmart" width="45%"/>
+<div class="glass-card">
+      <img src="https://i.postimg.cc/pdNhQRnh/paw.png" alt="pawmart" width="400px" />
+  </div>
 
 
 **Description:** 
+
 • Pet adoption & supply marketplace with category filtering and responsive UI  
 • Firebase authentication (Email/Password + Google Login)  
 • Listing management and ordering features using CRUD operations  
@@ -60,10 +81,14 @@ tools to improve performance, scalability, and user experience.
 
 ### 2. SecureExam
 
-<img src="https://i.postimg.cc/1zZXnBLp/exam.png" alt="secureexam" width="45%" />
+
+ <div class="glass-card">
+     <img src="https://i.postimg.cc/1zZXnBLp/exam.png" alt="secureexam" width="400px" />
+  </div>
 
 
 **Description:** 
+
 • Instructor Dashboard for batch management, exam creation, and publishing workflow  
 • Student Exam System with MCQ & theory exams and real-time result calculation  
 • Gamified reward system and exam tracking  
