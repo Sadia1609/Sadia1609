@@ -37,8 +37,8 @@ tools to improve performance, scalability, and user experience.
 
 ### 1. PawMart
 
-<a href="https://github.com/Sadia1609/YOUR_PROJECT_1_REPO" target="_blank">
-  <img src="LINK_TO_YOUR_PROJECT_1_IMAGE" alt="Project 1 Name" width="100%" />
+<a href="https://github.com/Sadia1609/paw-mart" target="_blank">
+  <img src=<img width="946" height="404" alt="Image" src="https://github.com/user-attachments/assets/2b0d1e45-b5e5-4b9a-8930-19c893864cc4" /> alt="pawmart" width="45%" />
 </a>
 
 **Description:** 
@@ -61,8 +61,8 @@ tools to improve performance, scalability, and user experience.
 
 ### 2. SecureExam
 
-<a href="https://github.com/Sadia1609/YOUR_PROJECT_2_REPO" target="_blank">
-  <img src="LINK_TO_YOUR_PROJECT_2_IMAGE" alt="Project 2 Name" width="100%" />
+<a href="https://github.com/abir-11/online-secure-exam" target="_blank">
+  <img src="LINK_TO_YOUR_PROJECT_2_IMAGE" alt="Project 2 Name" width="45%" />
 </a>
 
 **Description:** 
