@@ -35,33 +35,7 @@ tools to improve performance, scalability, and user experience.
 
 ##  My Best Projects
 
-### 1. PawMart
-
-<div class="glass-card">
-      <img src="https://i.postimg.cc/pdNhQRnh/paw.png" alt="pawmart" width="400px" />
-  </div>
-
-
-**Description:** 
-
-• Pet adoption & supply marketplace with category filtering and responsive UI  
-• Firebase authentication (Email/Password + Google Login)  
-• Listing management and ordering features using CRUD operations  
-
-**Tech Stack:** `React` `Node.js` `Express` `MongoDB` `Tailwind CSS` `Firebase Auth`
-
-<p align="left">
-  <a href="https://github.com/Sadia1609/paw-mart" target="_blank">
-    <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://pet-care-8ba14.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Demo-Live_Site-38bdf8?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
-
----
-
-### 2. SecureExam
+### 1. SecureExam
 
 
  <div class="glass-card">
@@ -89,6 +63,34 @@ tools to improve performance, scalability, and user experience.
     <img src="https://img.shields.io/badge/Demo-Live_Site-38bdf8?style=for-the-badge&logo=vercel" />
   </a>
 </p>
+
+
+---
+
+### 2. PawMart
+
+<div class="glass-card">
+      <img src="https://i.postimg.cc/pdNhQRnh/paw.png" alt="pawmart" width="400px" />
+  </div>
+
+
+**Description:** 
+
+• Pet adoption & supply marketplace with category filtering and responsive UI  
+• Firebase authentication (Email/Password + Google Login)  
+• Listing management and ordering features using CRUD operations  
+
+**Tech Stack:** `React` `Node.js` `Express` `MongoDB` `Tailwind CSS` `Firebase Auth`
+
+<p align="left">
+  <a href="https://github.com/Sadia1609/paw-mart" target="_blank">
+    <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://pet-care-8ba14.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Demo-Live_Site-38bdf8?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
 
 
 ## GitHub stats
